@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 
-<p> 📚 Currently a student in the International Baccalaureate Diploma Programme. <br>
-👨‍💻 Passionate about bridging technology to real-world impact. <br>
+<p> 📚 Incoming Systems Design Engineering @ UWaterloo 🪿 <br>
+👨‍💻 Passionate about making things and creating real-world impact <br>
 🧩 Fun Fact: My 3x3 Rubik's Cube PB is 4.60 seconds!
 
 
