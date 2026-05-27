@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-<p> 📚 Incoming Systems Design Engineering @ UWaterloo 🪿 <br>
+<p> 📚 Incoming Computer Science @ UWaterloo 🪿 <br>
 👨‍💻 Passionate about making things and creating real-world impact <br>
 🧩 Fun Fact: My 3x3 Rubik's Cube PB is 4.60 seconds!
 
