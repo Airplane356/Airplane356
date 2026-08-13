@@ -1,13 +1,7 @@
-<div>
-    <h1>Hey 👋, I'm Eric</h1>
-</div>
+hey i'm [eric](https://ericzxchen.com/)!
 
-## 🚀 About Me
+- waterloo cs
+- i like building stuff 
+- i like solving rubik's cubes really fast (4.6s 3x3 pb)
 
-<p> 📚 Incoming Computer Science @ UWaterloo 🪿 <br>
-👨‍💻 Passionate about making things and creating real-world impact <br>
-🧩 Fun Fact: My 3x3 Rubik's Cube PB is 4.60 seconds!
-
-
-## 📫 Connect with me
-<a href="https://www.linkedin.com/in/eric356/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" alt="LinkedIn"></a>
+![](https://komarev.com/ghpvc/?username=ericchen356&color=0e75b6&style=flat)
